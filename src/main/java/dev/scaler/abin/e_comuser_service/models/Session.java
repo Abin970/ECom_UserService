@@ -1,4 +1,4 @@
-package dev.scaler.abin.e_comuser_service.model;
+package dev.scaler.abin.e_comuser_service.models;
 
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;

@@ -1,6 +1,6 @@
-package dev.scaler.abin.e_comuser_service.repository;
+package dev.scaler.abin.e_comuser_service.repositories;
 
-import dev.scaler.abin.e_comuser_service.model.User;
+import dev.scaler.abin.e_comuser_service.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
