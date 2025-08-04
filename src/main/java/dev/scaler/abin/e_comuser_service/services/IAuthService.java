@@ -8,7 +8,7 @@ import java.util.Map;
 
 public interface IAuthService {
 
-    ResponseEntity<UserDto> login(String email, String password);
+    ResponseEntity<UserDto> login(String email, String password, String token);
 
     ResponseEntity<Void> logout(String token, Long userId);
 
